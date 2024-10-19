@@ -1,7 +1,3 @@
-Here’s the updated README for **ASTROM**, now including a **Table of Contents** at the top:
-
----
-
 # ASTROM - Advanced Fortnite Injector & Executor
 
 **ASTROM** is an all-in-one Fortnite hacking tool, serving as both an injector and executor for advanced mods and cheats. Designed for serious gamers and developers, ASTROM enables you to push the boundaries of Fortnite's in-game mechanics with precision hacks and undetectable bypass systems, all managed through a sleek, integrated user interface.
@@ -167,7 +163,3 @@ Submit bugs and issues via the [Issue Tracker](https://github.com/YourUsername/A
 ## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
-
-Now the README includes a **Table of Contents** for better navigation and a more professional look, as well as sections for features like **Usage Instructions**, **Common Commands**, **Script Libraries**, and **Support**. Let me know if there's anything else you'd like!
